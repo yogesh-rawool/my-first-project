@@ -1,2 +1,3 @@
 Hello GitHub
 I am learning Git step by step.
+Now I am learning Git clone and pull!!
