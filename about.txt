@@ -1,3 +1,1 @@
-I am a computer programmer
-Also I am quick learner
-I want to learn at full speed
+These changes are from feature2 branch
